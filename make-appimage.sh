@@ -16,6 +16,7 @@ quick-sharun ./AppDir/bin/* \
     /usr/lib/jvm/java*/legal \
     /usr/lib/jvm/java*/lib \
     /usr/bin/openssl
+
 # Additional changes can be done in between here
 
 # Turn AppDir into AppImage
