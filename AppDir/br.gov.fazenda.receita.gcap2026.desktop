@@ -2,7 +2,7 @@
 Type=Application
 Name=GCAP 2026
 GenericName=Ganhos de Capital 2026
-Comment=Declare seus ganhos de capital (Ano-calendário 2026)
+Comment=Declare seus ganhos de capital (Ano-calendário 2025)
 Icon=br.gov.fazenda.receita.gcap2026
 Exec=exec.sh
 Categories=Office;Network;
